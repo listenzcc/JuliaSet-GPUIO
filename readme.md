@@ -1,8 +1,10 @@
 # 基于GPU的快速Julia集计算
 
 本文记录一个利用GPU计算的前端程序，它用来在PC上快速计算和实时渲染大量迭代的 Julia 集。由于 GPU 算的实在是太快了，因此我决定让它成为一个实时计算和渲染程序。开源代码可见我的前端笔记本
-
 [The Fractal (Julia Set) on GPU](https://observablehq.com/@listenzcc/the-fractal-julia-set-on-gpu "The Fractal (Julia Set) on GPU")
+
+或GITHUB页面
+[JuliaSet-GPUIO](https://listenzcc.github.io/JuliaSet-GPUIO/ "JuliaSet-GPUIO")
 
 ---
 - [基于GPU的快速Julia集计算](#基于gpu的快速julia集计算)
